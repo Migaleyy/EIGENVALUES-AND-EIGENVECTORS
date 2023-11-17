@@ -21,7 +21,8 @@ Developed by: Migal G Arunadann
 #RegisterNumber:212222110025
 import numpy as np
 a=np.array([[2,2], [1,311)
-values, vectors-np.linalg.eig(a) print ("Eigen values are", values, "and Eigen Vectors are", vectors)
+values, vectors-np.linalg.eig(a)
+print ("Eigen values are", values, "and Eigen Vectors are", vectors)
 ```
 
 ## Output:
